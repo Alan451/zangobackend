@@ -1,1 +1,1 @@
-web: gunicorn HOME.wsgi --log-file
+web: gunicorn zangobackend.wsgi --log-file
